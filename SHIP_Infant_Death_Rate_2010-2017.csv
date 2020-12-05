@@ -1,0 +1,876 @@
+Jurisdiction,Value,Race/ ethnicity,Year,Measure
+State,6.5,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Allegany,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Anne Arundel,4.1,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Baltimore City,8.7,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Baltimore County,6.5,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Calvert,6.7,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Carroll,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Cecil,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Charles,10.9,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Frederick,6.3,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Harford,1.9,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Howard,5.4,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Montgomery,4.6,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Prince George's,8.2,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Saint Mary's,6.7,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Somerset,41.2,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Washington,9.8,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Wicomico,10.9,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+Worcester,12.6,All races/ ethnicities (aggregated),2017,Infant Mortality Rate
+State,11.2,Black Non-Hispanic,2017,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2017,Infant Mortality Rate
+Anne Arundel,7.9,Black Non-Hispanic,2017,Infant Mortality Rate
+Baltimore City,12.2,Black Non-Hispanic,2017,Infant Mortality Rate
+Baltimore County,12.4,Black Non-Hispanic,2017,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2017,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2017,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2017,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2017,Infant Mortality Rate
+Charles,10,Black Non-Hispanic,2017,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2017,Infant Mortality Rate
+Frederick,15.5,Black Non-Hispanic,2017,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2017,Infant Mortality Rate
+Harford,,Black Non-Hispanic,2017,Infant Mortality Rate
+Howard,8.7,Black Non-Hispanic,2017,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2017,Infant Mortality Rate
+Montgomery,6.5,Black Non-Hispanic,2017,Infant Mortality Rate
+Prince George's,12,Black Non-Hispanic,2017,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2017,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2017,Infant Mortality Rate
+Somerset,64.5,Black Non-Hispanic,2017,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2017,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2017,Infant Mortality Rate
+Wicomico,12.1,Black Non-Hispanic,2017,Infant Mortality Rate
+Worcester,80.6,Black Non-Hispanic,2017,Infant Mortality Rate
+State,4.7,Hispanic,2017,Infant Mortality Rate
+Allegany,,Hispanic,2017,Infant Mortality Rate
+Anne Arundel,5.3,Hispanic,2017,Infant Mortality Rate
+Baltimore City,,Hispanic,2017,Infant Mortality Rate
+Baltimore County,5.7,Hispanic,2017,Infant Mortality Rate
+Calvert,,Hispanic,2017,Infant Mortality Rate
+Caroline,,Hispanic,2017,Infant Mortality Rate
+Carroll,,Hispanic,2017,Infant Mortality Rate
+Cecil,,Hispanic,2017,Infant Mortality Rate
+Charles,,Hispanic,2017,Infant Mortality Rate
+Dorchester,,Hispanic,2017,Infant Mortality Rate
+Frederick,,Hispanic,2017,Infant Mortality Rate
+Garrett,,Hispanic,2017,Infant Mortality Rate
+Harford,,Hispanic,2017,Infant Mortality Rate
+Howard,,Hispanic,2017,Infant Mortality Rate
+Kent,,Hispanic,2017,Infant Mortality Rate
+Montgomery,4.7,Hispanic,2017,Infant Mortality Rate
+Prince George's,5,Hispanic,2017,Infant Mortality Rate
+Queen Anne's,,Hispanic,2017,Infant Mortality Rate
+Saint Mary's,,Hispanic,2017,Infant Mortality Rate
+Somerset,,Hispanic,2017,Infant Mortality Rate
+Talbot,,Hispanic,2017,Infant Mortality Rate
+Washington,,Hispanic,2017,Infant Mortality Rate
+Wicomico,,Hispanic,2017,Infant Mortality Rate
+Worcester,,Hispanic,2017,Infant Mortality Rate
+State,4,White Non-Hispanic,2017,Infant Mortality Rate
+Allegany,,White Non-Hispanic,2017,Infant Mortality Rate
+Anne Arundel,2.8,White Non-Hispanic,2017,Infant Mortality Rate
+Baltimore City,2.9,White Non-Hispanic,2017,Infant Mortality Rate
+Baltimore County,3.1,White Non-Hispanic,2017,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2017,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2017,Infant Mortality Rate
+Carroll,,White Non-Hispanic,2017,Infant Mortality Rate
+Cecil,,White Non-Hispanic,2017,Infant Mortality Rate
+Charles,12.2,White Non-Hispanic,2017,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2017,Infant Mortality Rate
+Frederick,6.1,White Non-Hispanic,2017,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2017,Infant Mortality Rate
+Harford,,White Non-Hispanic,2017,Infant Mortality Rate
+Howard,,White Non-Hispanic,2017,Infant Mortality Rate
+Kent,,White Non-Hispanic,2017,Infant Mortality Rate
+Montgomery,3.3,White Non-Hispanic,2017,Infant Mortality Rate
+Prince George's,,White Non-Hispanic,2017,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2017,Infant Mortality Rate
+Saint Mary's,5.1,White Non-Hispanic,2017,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2017,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2017,Infant Mortality Rate
+Washington,10.6,White Non-Hispanic,2017,Infant Mortality Rate
+Wicomico,12.5,White Non-Hispanic,2017,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2017,Infant Mortality Rate
+State,3.1,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Allegany,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Anne Arundel,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Baltimore City,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Baltimore County,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Calvert,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Caroline,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Carroll,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Cecil,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Charles,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Dorchester,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Frederick,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Garrett,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Harford,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Howard,5.7,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Kent,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Montgomery,3.6,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Prince George's,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Queen Anne's,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Saint Mary's,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Somerset,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Talbot,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Washington,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Wicomico,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+Worcester,,Asian/ Pacific Islander Non-Hispanic,2017,Infant Mortality Rate
+State,6.5,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Allegany,8.1,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Anne Arundel,5.6,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Baltimore City,8.8,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Baltimore County,5.9,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Calvert,6.6,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Carroll,2.9,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Cecil,7.2,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Charles,10.5,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Frederick,3.2,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Harford,4.8,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Howard,4.8,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Montgomery,5.6,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Prince George's,7.6,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Saint Mary's,7,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Washington,7.1,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Wicomico,9.7,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+Worcester,19,All races/ ethnicities (aggregated),2016,Infant Mortality Rate
+State,10.5,Black Non-Hispanic,2016,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2016,Infant Mortality Rate
+Anne Arundel,10.1,Black Non-Hispanic,2016,Infant Mortality Rate
+Baltimore City,11.3,Black Non-Hispanic,2016,Infant Mortality Rate
+Baltimore County,9.8,Black Non-Hispanic,2016,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2016,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2016,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2016,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2016,Infant Mortality Rate
+Charles,14.9,Black Non-Hispanic,2016,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2016,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2016,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2016,Infant Mortality Rate
+Harford,14.4,Black Non-Hispanic,2016,Infant Mortality Rate
+Howard,,Black Non-Hispanic,2016,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2016,Infant Mortality Rate
+Montgomery,9.2,Black Non-Hispanic,2016,Infant Mortality Rate
+Prince George's,9.7,Black Non-Hispanic,2016,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2016,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2016,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2016,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2016,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2016,Infant Mortality Rate
+Wicomico,19.9,Black Non-Hispanic,2016,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2016,Infant Mortality Rate
+State,5.4,Hispanic,2016,Infant Mortality Rate
+Allegany,,Hispanic,2016,Infant Mortality Rate
+Anne Arundel,,Hispanic,2016,Infant Mortality Rate
+Baltimore City,,Hispanic,2016,Infant Mortality Rate
+Baltimore County,,Hispanic,2016,Infant Mortality Rate
+Calvert,,Hispanic,2016,Infant Mortality Rate
+Caroline,,Hispanic,2016,Infant Mortality Rate
+Carroll,,Hispanic,2016,Infant Mortality Rate
+Cecil,,Hispanic,2016,Infant Mortality Rate
+Charles,,Hispanic,2016,Infant Mortality Rate
+Dorchester,,Hispanic,2016,Infant Mortality Rate
+Frederick,,Hispanic,2016,Infant Mortality Rate
+Garrett,,Hispanic,2016,Infant Mortality Rate
+Harford,,Hispanic,2016,Infant Mortality Rate
+Howard,,Hispanic,2016,Infant Mortality Rate
+Kent,,Hispanic,2016,Infant Mortality Rate
+Montgomery,5.5,Hispanic,2016,Infant Mortality Rate
+Prince George's,6.1,Hispanic,2016,Infant Mortality Rate
+Queen Anne's,,Hispanic,2016,Infant Mortality Rate
+Saint Mary's,,Hispanic,2016,Infant Mortality Rate
+Somerset,,Hispanic,2016,Infant Mortality Rate
+Talbot,,Hispanic,2016,Infant Mortality Rate
+Washington,,Hispanic,2016,Infant Mortality Rate
+Wicomico,,Hispanic,2016,Infant Mortality Rate
+Worcester,,Hispanic,2016,Infant Mortality Rate
+State,4.3,White Non-Hispanic,2016,Infant Mortality Rate
+Allegany,,White Non-Hispanic,2016,Infant Mortality Rate
+Anne Arundel,5.3,White Non-Hispanic,2016,Infant Mortality Rate
+Baltimore City,5.9,White Non-Hispanic,2016,Infant Mortality Rate
+Baltimore County,4,White Non-Hispanic,2016,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2016,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2016,Infant Mortality Rate
+Carroll,3.3,White Non-Hispanic,2016,Infant Mortality Rate
+Cecil,,White Non-Hispanic,2016,Infant Mortality Rate
+Charles,,White Non-Hispanic,2016,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2016,Infant Mortality Rate
+Frederick,3.5,White Non-Hispanic,2016,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2016,Infant Mortality Rate
+Harford,3.1,White Non-Hispanic,2016,Infant Mortality Rate
+Howard,4.3,White Non-Hispanic,2016,Infant Mortality Rate
+Kent,,White Non-Hispanic,2016,Infant Mortality Rate
+Montgomery,3.6,White Non-Hispanic,2016,Infant Mortality Rate
+Prince George's,,White Non-Hispanic,2016,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2016,Infant Mortality Rate
+Saint Mary's,5.7,White Non-Hispanic,2016,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2016,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2016,Infant Mortality Rate
+Washington,6.3,White Non-Hispanic,2016,Infant Mortality Rate
+Wicomico,,White Non-Hispanic,2016,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2016,Infant Mortality Rate
+State,4.2,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Allegany,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Anne Arundel,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Baltimore City,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Baltimore County,5.9,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Calvert,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Caroline,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Carroll,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Cecil,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Charles,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Dorchester,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Frederick,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Garrett,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Harford,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Howard,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Kent,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Montgomery,4.9,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Prince George's,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Queen Anne's,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Saint Mary's,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Somerset,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Talbot,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Washington,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Wicomico,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+Worcester,,Asian/ Pacific Islander Non-Hispanic,2016,Infant Mortality Rate
+State,6.7,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Allegany,7.3,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Anne Arundel,5.1,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Baltimore City,8.4,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Baltimore County,6.1,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Calvert,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Caroline,12.8,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Carroll,3,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Cecil,6.8,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Charles,4.9,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Frederick,3.9,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Harford,3.3,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Howard,7.6,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Montgomery,5.3,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Prince George's,8.9,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Saint Mary's,8.3,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Talbot,18.6,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Washington,7.1,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Wicomico,6.5,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+Worcester,13.8,All races/ ethnicities (aggregated),2015,Infant Mortality Rate
+State,11.3,Black Non-Hispanic,2015,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2015,Infant Mortality Rate
+Anne Arundel,9.5,Black Non-Hispanic,2015,Infant Mortality Rate
+Baltimore City,9.7,Black Non-Hispanic,2015,Infant Mortality Rate
+Baltimore County,9.9,Black Non-Hispanic,2015,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2015,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2015,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2015,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2015,Infant Mortality Rate
+Charles,8.3,Black Non-Hispanic,2015,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2015,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2015,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2015,Infant Mortality Rate
+Harford,,Black Non-Hispanic,2015,Infant Mortality Rate
+Howard,13.9,Black Non-Hispanic,2015,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2015,Infant Mortality Rate
+Montgomery,8.1,Black Non-Hispanic,2015,Infant Mortality Rate
+Prince George's,13.4,Black Non-Hispanic,2015,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2015,Infant Mortality Rate
+Saint Mary's,22.5,Black Non-Hispanic,2015,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2015,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2015,Infant Mortality Rate
+Washington,20.4,Black Non-Hispanic,2015,Infant Mortality Rate
+Wicomico,,Black Non-Hispanic,2015,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2015,Infant Mortality Rate
+State,5.5,Hispanic,2015,Infant Mortality Rate
+Allegany,,Hispanic,2015,Infant Mortality Rate
+Anne Arundel,,Hispanic,2015,Infant Mortality Rate
+Baltimore City,8.7,Hispanic,2015,Infant Mortality Rate
+Baltimore County,7.2,Hispanic,2015,Infant Mortality Rate
+Calvert,,Hispanic,2015,Infant Mortality Rate
+Caroline,,Hispanic,2015,Infant Mortality Rate
+Carroll,,Hispanic,2015,Infant Mortality Rate
+Cecil,,Hispanic,2015,Infant Mortality Rate
+Charles,,Hispanic,2015,Infant Mortality Rate
+Dorchester,,Hispanic,2015,Infant Mortality Rate
+Frederick,,Hispanic,2015,Infant Mortality Rate
+Garrett,,Hispanic,2015,Infant Mortality Rate
+Harford,,Hispanic,2015,Infant Mortality Rate
+Howard,,Hispanic,2015,Infant Mortality Rate
+Kent,,Hispanic,2015,Infant Mortality Rate
+Montgomery,7.5,Hispanic,2015,Infant Mortality Rate
+Prince George's,2.6,Hispanic,2015,Infant Mortality Rate
+Queen Anne's,,Hispanic,2015,Infant Mortality Rate
+Saint Mary's,,Hispanic,2015,Infant Mortality Rate
+Somerset,,Hispanic,2015,Infant Mortality Rate
+Talbot,,Hispanic,2015,Infant Mortality Rate
+Washington,,Hispanic,2015,Infant Mortality Rate
+Wicomico,,Hispanic,2015,Infant Mortality Rate
+Worcester,,Hispanic,2015,Infant Mortality Rate
+State,4,White Non-Hispanic,2015,Infant Mortality Rate
+Allegany,7.9,White Non-Hispanic,2015,Infant Mortality Rate
+Anne Arundel,3.6,White Non-Hispanic,2015,Infant Mortality Rate
+Baltimore City,4.4,White Non-Hispanic,2015,Infant Mortality Rate
+Baltimore County,4.1,White Non-Hispanic,2015,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2015,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2015,Infant Mortality Rate
+Carroll,,White Non-Hispanic,2015,Infant Mortality Rate
+Cecil,7.1,White Non-Hispanic,2015,Infant Mortality Rate
+Charles,,White Non-Hispanic,2015,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2015,Infant Mortality Rate
+Frederick,,White Non-Hispanic,2015,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2015,Infant Mortality Rate
+Harford,,White Non-Hispanic,2015,Infant Mortality Rate
+Howard,4.8,White Non-Hispanic,2015,Infant Mortality Rate
+Kent,,White Non-Hispanic,2015,Infant Mortality Rate
+Montgomery,2.2,White Non-Hispanic,2015,Infant Mortality Rate
+Prince George's,,White Non-Hispanic,2015,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2015,Infant Mortality Rate
+Saint Mary's,4.6,White Non-Hispanic,2015,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2015,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2015,Infant Mortality Rate
+Washington,6.2,White Non-Hispanic,2015,Infant Mortality Rate
+Wicomico,8.5,White Non-Hispanic,2015,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2015,Infant Mortality Rate
+State,4.6,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Allegany,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Anne Arundel,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Baltimore City,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Baltimore County,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Calvert,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Caroline,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Carroll,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Cecil,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Charles,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Dorchester,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Frederick,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Garrett,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Harford,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Howard,7.4,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Kent,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Montgomery,4,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Prince George's,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Queen Anne's,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Saint Mary's,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Somerset,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Talbot,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Washington,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Wicomico,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+Worcester,,Asian/ Pacific Islander Non-Hispanic,2015,Infant Mortality Rate
+State,6.5,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Allegany,9.1,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Anne Arundel,5.7,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Baltimore City,10.4,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Baltimore County,6.9,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Calvert,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Carroll,3.1,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Cecil,5.3,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Charles,5.9,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Frederick,3.6,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Harford,4.8,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Howard,4.5,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Montgomery,4.8,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Prince George's,6.9,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Saint Mary's,6.8,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Washington,7.7,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Wicomico,9.9,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+Worcester,,All races/ ethnicities (aggregated),2014,Infant Mortality Rate
+State,10.7,Black Non-Hispanic,2014,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2014,Infant Mortality Rate
+Anne Arundel,12.9,Black Non-Hispanic,2014,Infant Mortality Rate
+Baltimore City,12.8,Black Non-Hispanic,2014,Infant Mortality Rate
+Baltimore County,14.8,Black Non-Hispanic,2014,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2014,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2014,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2014,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2014,Infant Mortality Rate
+Charles,8.6,Black Non-Hispanic,2014,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2014,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2014,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2014,Infant Mortality Rate
+Harford,,Black Non-Hispanic,2014,Infant Mortality Rate
+Howard,7.8,Black Non-Hispanic,2014,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2014,Infant Mortality Rate
+Montgomery,7.8,Black Non-Hispanic,2014,Infant Mortality Rate
+Prince George's,8.2,Black Non-Hispanic,2014,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2014,Infant Mortality Rate
+Saint Mary's,24,Black Non-Hispanic,2014,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2014,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2014,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2014,Infant Mortality Rate
+Wicomico,13.7,Black Non-Hispanic,2014,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2014,Infant Mortality Rate
+State,4.4,Hispanic,2014,Infant Mortality Rate
+Allegany,,Hispanic,2014,Infant Mortality Rate
+Anne Arundel,,Hispanic,2014,Infant Mortality Rate
+Baltimore City,7.6,Hispanic,2014,Infant Mortality Rate
+Baltimore County,,Hispanic,2014,Infant Mortality Rate
+Calvert,,Hispanic,2014,Infant Mortality Rate
+Caroline,,Hispanic,2014,Infant Mortality Rate
+Carroll,,Hispanic,2014,Infant Mortality Rate
+Cecil,,Hispanic,2014,Infant Mortality Rate
+Charles,,Hispanic,2014,Infant Mortality Rate
+Dorchester,,Hispanic,2014,Infant Mortality Rate
+Frederick,,Hispanic,2014,Infant Mortality Rate
+Garrett,,Hispanic,2014,Infant Mortality Rate
+Harford,,Hispanic,2014,Infant Mortality Rate
+Howard,,Hispanic,2014,Infant Mortality Rate
+Kent,,Hispanic,2014,Infant Mortality Rate
+Montgomery,4.4,Hispanic,2014,Infant Mortality Rate
+Prince George's,5.2,Hispanic,2014,Infant Mortality Rate
+Queen Anne's,,Hispanic,2014,Infant Mortality Rate
+Saint Mary's,,Hispanic,2014,Infant Mortality Rate
+Somerset,,Hispanic,2014,Infant Mortality Rate
+Talbot,,Hispanic,2014,Infant Mortality Rate
+Washington,,Hispanic,2014,Infant Mortality Rate
+Wicomico,,Hispanic,2014,Infant Mortality Rate
+Worcester,,Hispanic,2014,Infant Mortality Rate
+State,4.4,White Non-Hispanic,2014,Infant Mortality Rate
+Allegany,8,White Non-Hispanic,2014,Infant Mortality Rate
+Anne Arundel,3.8,White Non-Hispanic,2014,Infant Mortality Rate
+Baltimore City,7,White Non-Hispanic,2014,Infant Mortality Rate
+Baltimore County,3.2,White Non-Hispanic,2014,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2014,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2014,Infant Mortality Rate
+Carroll,3.5,White Non-Hispanic,2014,Infant Mortality Rate
+Cecil,,White Non-Hispanic,2014,Infant Mortality Rate
+Charles,,White Non-Hispanic,2014,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2014,Infant Mortality Rate
+Frederick,5.2,White Non-Hispanic,2014,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2014,Infant Mortality Rate
+Harford,5.4,White Non-Hispanic,2014,Infant Mortality Rate
+Howard,,White Non-Hispanic,2014,Infant Mortality Rate
+Kent,,White Non-Hispanic,2014,Infant Mortality Rate
+Montgomery,3.5,White Non-Hispanic,2014,Infant Mortality Rate
+Prince George's,,White Non-Hispanic,2014,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2014,Infant Mortality Rate
+Saint Mary's,,White Non-Hispanic,2014,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2014,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2014,Infant Mortality Rate
+Washington,4.9,White Non-Hispanic,2014,Infant Mortality Rate
+Wicomico,8,White Non-Hispanic,2014,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2014,Infant Mortality Rate
+State,6.6,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Allegany,8.9,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Anne Arundel,5.6,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Baltimore City,10.3,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Baltimore County,6.4,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Calvert,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Carroll,4.5,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Cecil,6.3,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Charles,7.8,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Frederick,4.8,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Harford,5.2,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Howard,4.7,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Montgomery,4.7,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Prince George's,7.8,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Saint Mary's,5.9,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Washington,5.3,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Wicomico,10.3,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+Worcester,,All races/ ethnicities (aggregated),2013,Infant Mortality Rate
+State,10.6,Black Non-Hispanic,2013,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2013,Infant Mortality Rate
+Anne Arundel,10.8,Black Non-Hispanic,2013,Infant Mortality Rate
+Baltimore City,12.6,Black Non-Hispanic,2013,Infant Mortality Rate
+Baltimore County,8.3,Black Non-Hispanic,2013,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2013,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2013,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2013,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2013,Infant Mortality Rate
+Charles,7.3,Black Non-Hispanic,2013,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2013,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2013,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2013,Infant Mortality Rate
+Harford,13.4,Black Non-Hispanic,2013,Infant Mortality Rate
+Howard,13.7,Black Non-Hispanic,2013,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2013,Infant Mortality Rate
+Montgomery,9.9,Black Non-Hispanic,2013,Infant Mortality Rate
+Prince George's,8.7,Black Non-Hispanic,2013,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2013,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2013,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2013,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2013,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2013,Infant Mortality Rate
+Wicomico,23.1,Black Non-Hispanic,2013,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2013,Infant Mortality Rate
+State,4.7,Hispanic,2013,Infant Mortality Rate
+Allegany,,Hispanic,2013,Infant Mortality Rate
+Anne Arundel,7.3,Hispanic,2013,Infant Mortality Rate
+Baltimore City,,Hispanic,2013,Infant Mortality Rate
+Baltimore County,,Hispanic,2013,Infant Mortality Rate
+Calvert,,Hispanic,2013,Infant Mortality Rate
+Caroline,,Hispanic,2013,Infant Mortality Rate
+Carroll,,Hispanic,2013,Infant Mortality Rate
+Cecil,,Hispanic,2013,Infant Mortality Rate
+Charles,,Hispanic,2013,Infant Mortality Rate
+Dorchester,,Hispanic,2013,Infant Mortality Rate
+Frederick,,Hispanic,2013,Infant Mortality Rate
+Garrett,,Hispanic,2013,Infant Mortality Rate
+Harford,,Hispanic,2013,Infant Mortality Rate
+Howard,,Hispanic,2013,Infant Mortality Rate
+Kent,,Hispanic,2013,Infant Mortality Rate
+Montgomery,2.6,Hispanic,2013,Infant Mortality Rate
+Prince George's,6.9,Hispanic,2013,Infant Mortality Rate
+Queen Anne's,,Hispanic,2013,Infant Mortality Rate
+Saint Mary's,,Hispanic,2013,Infant Mortality Rate
+Somerset,,Hispanic,2013,Infant Mortality Rate
+Talbot,,Hispanic,2013,Infant Mortality Rate
+Washington,,Hispanic,2013,Infant Mortality Rate
+Wicomico,,Hispanic,2013,Infant Mortality Rate
+Worcester,,Hispanic,2013,Infant Mortality Rate
+State,4.6,White Non-Hispanic,2013,Infant Mortality Rate
+Allegany,,White Non-Hispanic,2013,Infant Mortality Rate
+Anne Arundel,3.9,White Non-Hispanic,2013,Infant Mortality Rate
+Baltimore City,7.7,White Non-Hispanic,2013,Infant Mortality Rate
+Baltimore County,5.6,White Non-Hispanic,2013,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2013,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2013,Infant Mortality Rate
+Carroll,3.6,White Non-Hispanic,2013,Infant Mortality Rate
+Cecil,5.1,White Non-Hispanic,2013,Infant Mortality Rate
+Charles,8.1,White Non-Hispanic,2013,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2013,Infant Mortality Rate
+Frederick,4.7,White Non-Hispanic,2013,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2013,Infant Mortality Rate
+Harford,3.5,White Non-Hispanic,2013,Infant Mortality Rate
+Howard,3.1,White Non-Hispanic,2013,Infant Mortality Rate
+Kent,,White Non-Hispanic,2013,Infant Mortality Rate
+Montgomery,3.5,White Non-Hispanic,2013,Infant Mortality Rate
+Prince George's,5.1,White Non-Hispanic,2013,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2013,Infant Mortality Rate
+Saint Mary's,,White Non-Hispanic,2013,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2013,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2013,Infant Mortality Rate
+Washington,,White Non-Hispanic,2013,Infant Mortality Rate
+Wicomico,,White Non-Hispanic,2013,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2013,Infant Mortality Rate
+State,6.3,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Allegany,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Anne Arundel,6.4,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Baltimore City,9.7,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Baltimore County,5.3,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Calvert,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Caroline,13.6,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Carroll,3.7,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Cecil,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Charles,3.6,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Frederick,4.4,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Harford,5.3,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Howard,4.9,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Montgomery,5.1,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Prince George's,8.6,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Saint Mary's,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Washington,4,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Wicomico,10.8,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+Worcester,,All races/ ethnicities (aggregated),2012,Infant Mortality Rate
+State,10.4,Black Non-Hispanic,2012,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2012,Infant Mortality Rate
+Anne Arundel,8.4,Black Non-Hispanic,2012,Infant Mortality Rate
+Baltimore City,12.7,Black Non-Hispanic,2012,Infant Mortality Rate
+Baltimore County,9.6,Black Non-Hispanic,2012,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2012,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2012,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2012,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2012,Infant Mortality Rate
+Charles,6.8,Black Non-Hispanic,2012,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2012,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2012,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2012,Infant Mortality Rate
+Harford,17.2,Black Non-Hispanic,2012,Infant Mortality Rate
+Howard,,Black Non-Hispanic,2012,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2012,Infant Mortality Rate
+Montgomery,8,Black Non-Hispanic,2012,Infant Mortality Rate
+Prince George's,9.6,Black Non-Hispanic,2012,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2012,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2012,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2012,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2012,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2012,Infant Mortality Rate
+Wicomico,25.2,Black Non-Hispanic,2012,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2012,Infant Mortality Rate
+State,5.5,Hispanic,2012,Infant Mortality Rate
+Allegany,,Hispanic,2012,Infant Mortality Rate
+Anne Arundel,7.7,Hispanic,2012,Infant Mortality Rate
+Baltimore City,,Hispanic,2012,Infant Mortality Rate
+Baltimore County,,Hispanic,2012,Infant Mortality Rate
+Calvert,,Hispanic,2012,Infant Mortality Rate
+Caroline,,Hispanic,2012,Infant Mortality Rate
+Carroll,,Hispanic,2012,Infant Mortality Rate
+Cecil,,Hispanic,2012,Infant Mortality Rate
+Charles,,Hispanic,2012,Infant Mortality Rate
+Dorchester,,Hispanic,2012,Infant Mortality Rate
+Frederick,,Hispanic,2012,Infant Mortality Rate
+Garrett,,Hispanic,2012,Infant Mortality Rate
+Harford,,Hispanic,2012,Infant Mortality Rate
+Howard,,Hispanic,2012,Infant Mortality Rate
+Kent,,Hispanic,2012,Infant Mortality Rate
+Montgomery,4.3,Hispanic,2012,Infant Mortality Rate
+Prince George's,8.8,Hispanic,2012,Infant Mortality Rate
+Queen Anne's,,Hispanic,2012,Infant Mortality Rate
+Saint Mary's,,Hispanic,2012,Infant Mortality Rate
+Somerset,,Hispanic,2012,Infant Mortality Rate
+Talbot,,Hispanic,2012,Infant Mortality Rate
+Washington,,Hispanic,2012,Infant Mortality Rate
+Wicomico,,Hispanic,2012,Infant Mortality Rate
+Worcester,,Hispanic,2012,Infant Mortality Rate
+State,3.8,White Non-Hispanic,2012,Infant Mortality Rate
+Allegany,,White Non-Hispanic,2012,Infant Mortality Rate
+Anne Arundel,5.3,White Non-Hispanic,2012,Infant Mortality Rate
+Baltimore City,3.3,White Non-Hispanic,2012,Infant Mortality Rate
+Baltimore County,3.6,White Non-Hispanic,2012,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2012,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2012,Infant Mortality Rate
+Carroll,,White Non-Hispanic,2012,Infant Mortality Rate
+Cecil,,White Non-Hispanic,2012,Infant Mortality Rate
+Charles,,White Non-Hispanic,2012,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2012,Infant Mortality Rate
+Frederick,5.1,White Non-Hispanic,2012,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2012,Infant Mortality Rate
+Harford,3.5,White Non-Hispanic,2012,Infant Mortality Rate
+Howard,3.6,White Non-Hispanic,2012,Infant Mortality Rate
+Kent,,White Non-Hispanic,2012,Infant Mortality Rate
+Montgomery,4.4,White Non-Hispanic,2012,Infant Mortality Rate
+Prince George's,,White Non-Hispanic,2012,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2012,Infant Mortality Rate
+Saint Mary's,,White Non-Hispanic,2012,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2012,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2012,Infant Mortality Rate
+Washington,,White Non-Hispanic,2012,Infant Mortality Rate
+Wicomico,,White Non-Hispanic,2012,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2012,Infant Mortality Rate
+State,6.7,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Allegany,7.7,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Anne Arundel,5.1,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Baltimore City,10.5,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Baltimore County,6.3,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Calvert,7.3,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Carroll,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Cecil,8.8,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Charles,8.2,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Frederick,3.6,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Harford,3.7,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Howard,4.7,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Montgomery,5.3,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Prince George's,9.5,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Queen Anne's,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Saint Mary's,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Talbot,22.2,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Washington,,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Wicomico,7.7,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+Worcester,10.6,All races/ ethnicities (aggregated),2011,Infant Mortality Rate
+State,12.2,Black Non-Hispanic,2011,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2011,Infant Mortality Rate
+Anne Arundel,13.4,Black Non-Hispanic,2011,Infant Mortality Rate
+Baltimore City,14.6,Black Non-Hispanic,2011,Infant Mortality Rate
+Baltimore County,12.9,Black Non-Hispanic,2011,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2011,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2011,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2011,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2011,Infant Mortality Rate
+Charles,13.8,Black Non-Hispanic,2011,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2011,Infant Mortality Rate
+Frederick,17.2,Black Non-Hispanic,2011,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2011,Infant Mortality Rate
+Harford,11.1,Black Non-Hispanic,2011,Infant Mortality Rate
+Howard,,Black Non-Hispanic,2011,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2011,Infant Mortality Rate
+Montgomery,10.4,Black Non-Hispanic,2011,Infant Mortality Rate
+Prince George's,10.7,Black Non-Hispanic,2011,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2011,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2011,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2011,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2011,Infant Mortality Rate
+Washington,,Black Non-Hispanic,2011,Infant Mortality Rate
+Wicomico,10.8,Black Non-Hispanic,2011,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2011,Infant Mortality Rate
+State,3,Hispanic,2011,Infant Mortality Rate
+Allegany,,Hispanic,2011,Infant Mortality Rate
+Anne Arundel,,Hispanic,2011,Infant Mortality Rate
+Baltimore City,,Hispanic,2011,Infant Mortality Rate
+Baltimore County,,Hispanic,2011,Infant Mortality Rate
+Calvert,,Hispanic,2011,Infant Mortality Rate
+Caroline,,Hispanic,2011,Infant Mortality Rate
+Carroll,,Hispanic,2011,Infant Mortality Rate
+Cecil,,Hispanic,2011,Infant Mortality Rate
+Charles,,Hispanic,2011,Infant Mortality Rate
+Dorchester,,Hispanic,2011,Infant Mortality Rate
+Frederick,,Hispanic,2011,Infant Mortality Rate
+Garrett,,Hispanic,2011,Infant Mortality Rate
+Harford,,Hispanic,2011,Infant Mortality Rate
+Howard,,Hispanic,2011,Infant Mortality Rate
+Kent,,Hispanic,2011,Infant Mortality Rate
+Montgomery,2.5,Hispanic,2011,Infant Mortality Rate
+Prince George's,5.4,Hispanic,2011,Infant Mortality Rate
+Queen Anne's,,Hispanic,2011,Infant Mortality Rate
+Saint Mary's,,Hispanic,2011,Infant Mortality Rate
+Somerset,,Hispanic,2011,Infant Mortality Rate
+Talbot,,Hispanic,2011,Infant Mortality Rate
+Washington,,Hispanic,2011,Infant Mortality Rate
+Wicomico,,Hispanic,2011,Infant Mortality Rate
+Worcester,,Hispanic,2011,Infant Mortality Rate
+State,4.3,White Non-Hispanic,2011,Infant Mortality Rate
+Allegany,,White Non-Hispanic,2011,Infant Mortality Rate
+Anne Arundel,4.1,White Non-Hispanic,2011,Infant Mortality Rate
+Baltimore City,4,White Non-Hispanic,2011,Infant Mortality Rate
+Baltimore County,3.9,White Non-Hispanic,2011,Infant Mortality Rate
+Calvert,7.8,White Non-Hispanic,2011,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2011,Infant Mortality Rate
+Carroll,,White Non-Hispanic,2011,Infant Mortality Rate
+Cecil,10,White Non-Hispanic,2011,Infant Mortality Rate
+Charles,,White Non-Hispanic,2011,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2011,Infant Mortality Rate
+Frederick,,White Non-Hispanic,2011,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2011,Infant Mortality Rate
+Harford,2.4,White Non-Hispanic,2011,Infant Mortality Rate
+Howard,4.1,White Non-Hispanic,2011,Infant Mortality Rate
+Kent,,White Non-Hispanic,2011,Infant Mortality Rate
+Montgomery,3.5,White Non-Hispanic,2011,Infant Mortality Rate
+Prince George's,14.1,White Non-Hispanic,2011,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2011,Infant Mortality Rate
+Saint Mary's,,White Non-Hispanic,2011,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2011,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2011,Infant Mortality Rate
+Washington,,White Non-Hispanic,2011,Infant Mortality Rate
+Wicomico,,White Non-Hispanic,2011,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2011,Infant Mortality Rate
+State,6.7,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Allegany,6.8,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Anne Arundel,4.7,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Baltimore City,11,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Baltimore County,6.7,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Calvert,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Caroline,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Carroll,5,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Cecil,5.9,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Charles,5.6,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Dorchester,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Frederick,3.2,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Garrett,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Harford,5.5,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Howard,6.8,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Kent,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Montgomery,4.3,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Prince George's,9,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Queen Anne's,10.3,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Saint Mary's,7.6,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Somerset,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Talbot,,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Washington,6.2,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Wicomico,5.6,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+Worcester,16.7,All races/ ethnicities (aggregated),2010,Infant Mortality Rate
+State,12,Black Non-Hispanic,2010,Infant Mortality Rate
+Allegany,,Black Non-Hispanic,2010,Infant Mortality Rate
+Anne Arundel,10.4,Black Non-Hispanic,2010,Infant Mortality Rate
+Baltimore City,14.8,Black Non-Hispanic,2010,Infant Mortality Rate
+Baltimore County,11.8,Black Non-Hispanic,2010,Infant Mortality Rate
+Calvert,,Black Non-Hispanic,2010,Infant Mortality Rate
+Caroline,,Black Non-Hispanic,2010,Infant Mortality Rate
+Carroll,,Black Non-Hispanic,2010,Infant Mortality Rate
+Cecil,,Black Non-Hispanic,2010,Infant Mortality Rate
+Charles,6.1,Black Non-Hispanic,2010,Infant Mortality Rate
+Dorchester,,Black Non-Hispanic,2010,Infant Mortality Rate
+Frederick,,Black Non-Hispanic,2010,Infant Mortality Rate
+Garrett,,Black Non-Hispanic,2010,Infant Mortality Rate
+Harford,,Black Non-Hispanic,2010,Infant Mortality Rate
+Howard,19.7,Black Non-Hispanic,2010,Infant Mortality Rate
+Kent,,Black Non-Hispanic,2010,Infant Mortality Rate
+Montgomery,7.2,Black Non-Hispanic,2010,Infant Mortality Rate
+Prince George's,11.5,Black Non-Hispanic,2010,Infant Mortality Rate
+Queen Anne's,,Black Non-Hispanic,2010,Infant Mortality Rate
+Saint Mary's,,Black Non-Hispanic,2010,Infant Mortality Rate
+Somerset,,Black Non-Hispanic,2010,Infant Mortality Rate
+Talbot,,Black Non-Hispanic,2010,Infant Mortality Rate
+Washington,26,Black Non-Hispanic,2010,Infant Mortality Rate
+Wicomico,,Black Non-Hispanic,2010,Infant Mortality Rate
+Worcester,,Black Non-Hispanic,2010,Infant Mortality Rate
+State,4.1,Hispanic,2010,Infant Mortality Rate
+Allegany,,Hispanic,2010,Infant Mortality Rate
+Anne Arundel,8.5,Hispanic,2010,Infant Mortality Rate
+Baltimore City,,Hispanic,2010,Infant Mortality Rate
+Baltimore County,,Hispanic,2010,Infant Mortality Rate
+Calvert,,Hispanic,2010,Infant Mortality Rate
+Caroline,,Hispanic,2010,Infant Mortality Rate
+Carroll,,Hispanic,2010,Infant Mortality Rate
+Cecil,,Hispanic,2010,Infant Mortality Rate
+Charles,,Hispanic,2010,Infant Mortality Rate
+Dorchester,,Hispanic,2010,Infant Mortality Rate
+Frederick,,Hispanic,2010,Infant Mortality Rate
+Garrett,,Hispanic,2010,Infant Mortality Rate
+Harford,,Hispanic,2010,Infant Mortality Rate
+Howard,,Hispanic,2010,Infant Mortality Rate
+Kent,,Hispanic,2010,Infant Mortality Rate
+Montgomery,3.7,Hispanic,2010,Infant Mortality Rate
+Prince George's,3.5,Hispanic,2010,Infant Mortality Rate
+Queen Anne's,,Hispanic,2010,Infant Mortality Rate
+Saint Mary's,,Hispanic,2010,Infant Mortality Rate
+Somerset,,Hispanic,2010,Infant Mortality Rate
+Talbot,,Hispanic,2010,Infant Mortality Rate
+Washington,,Hispanic,2010,Infant Mortality Rate
+Wicomico,,Hispanic,2010,Infant Mortality Rate
+Worcester,,Hispanic,2010,Infant Mortality Rate
+State,4.2,White Non-Hispanic,2010,Infant Mortality Rate
+Allegany,7.2,White Non-Hispanic,2010,Infant Mortality Rate
+Anne Arundel,2.8,White Non-Hispanic,2010,Infant Mortality Rate
+Baltimore City,4,White Non-Hispanic,2010,Infant Mortality Rate
+Baltimore County,4.8,White Non-Hispanic,2010,Infant Mortality Rate
+Calvert,,White Non-Hispanic,2010,Infant Mortality Rate
+Caroline,,White Non-Hispanic,2010,Infant Mortality Rate
+Carroll,4.8,White Non-Hispanic,2010,Infant Mortality Rate
+Cecil,,White Non-Hispanic,2010,Infant Mortality Rate
+Charles,,White Non-Hispanic,2010,Infant Mortality Rate
+Dorchester,,White Non-Hispanic,2010,Infant Mortality Rate
+Frederick,2.6,White Non-Hispanic,2010,Infant Mortality Rate
+Garrett,,White Non-Hispanic,2010,Infant Mortality Rate
+Harford,3.9,White Non-Hispanic,2010,Infant Mortality Rate
+Howard,4.3,White Non-Hispanic,2010,Infant Mortality Rate
+Kent,,White Non-Hispanic,2010,Infant Mortality Rate
+Montgomery,3.1,White Non-Hispanic,2010,Infant Mortality Rate
+Prince George's,10.2,White Non-Hispanic,2010,Infant Mortality Rate
+Queen Anne's,,White Non-Hispanic,2010,Infant Mortality Rate
+Saint Mary's,7.2,White Non-Hispanic,2010,Infant Mortality Rate
+Somerset,,White Non-Hispanic,2010,Infant Mortality Rate
+Talbot,,White Non-Hispanic,2010,Infant Mortality Rate
+Washington,4.2,White Non-Hispanic,2010,Infant Mortality Rate
+Wicomico,,White Non-Hispanic,2010,Infant Mortality Rate
+Worcester,,White Non-Hispanic,2010,Infant Mortality Rate
