@@ -6,7 +6,7 @@
    - Babies with low birth weight: percentage of live births that are a low birth weight (2500 grams or less)
 
 ## Problem
-  How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight changed from 2010 to 2017 in Maryland's counties? How can this inform policy? 
+  How have teen birth rate, access to early prenatal care, and the number of babies with low birth weight changed from 2010 to 2017 in Maryland's counties? What trends or patterns are there? How can this inform local or state policy? 
 
 ## Data Sources
    - We used data from the [Maryland Open Data Portal](https://opendata.maryland.gov/) to examine these three variables
