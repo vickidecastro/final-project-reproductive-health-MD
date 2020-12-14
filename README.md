@@ -16,3 +16,7 @@
       - [SHIP Teen Birth Rate from 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Teen-Birth-Rate-2010-2017/t8wg-hb7j)
       - [SHIP SHIP Early Prenatal Care 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Early-Prenatal-Care-2010-2017/48en-6hyz)
       - [SHIP Babies with Low Birth Weight 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Babies-with-Low-Birth-Weight-2010-2017/cyet-5jd3)
+
+
+## Python Analysis
+ **Note: This is the analysis that has been completed in Python so far; it is likely that further analysis will be done and added to the final project**
