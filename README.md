@@ -19,4 +19,10 @@
 
 
 ## Python Analysis
- **Note: This is the analysis that has been completed in Python so far; it is likely that further analysis will be done and added to the final project**
+ *Note: This is the analysis that has been completed in Python so far; it is likely that further analysis will be done and added to the final project*
+ 1. Data cleaning
+ 2. Data aggregation
+ 3. Data visualizations all counties
+ 4. Data visualization 5 largest counties
+ 5. Data visualization 5 smallest counties
+
