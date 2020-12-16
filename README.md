@@ -11,7 +11,7 @@
 ## Data Sources
    - We used data from the [Maryland Open Data Portal](https://opendata.maryland.gov/) to examine these three variables
    - We used health data from the SHIP program-- which falls under Human and Health Services-- because it was fairly consistent across variables
-      - SHIP is te State Health Improvement Process
+      - SHIP is the State Health Improvement Process
    - Sources
       - [SHIP Teen Birth Rate from 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Teen-Birth-Rate-2010-2017/t8wg-hb7j)
       - [SHIP SHIP Early Prenatal Care 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Early-Prenatal-Care-2010-2017/48en-6hyz)
