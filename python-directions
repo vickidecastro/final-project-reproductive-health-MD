@@ -1,0 +1,19 @@
+python directions
+1. import data for data analysis (teen birth rate, low birth weight, and prenatal care data)
+2. teen birht rate=TBR; low birth weight=lbw; prenatal care=pnc
+3. rename column values for each data set to reflect variable
+4. use len() function to see how many rows of data there are in each dataset 
+5. use pd.merge function to merge TBR and PNC datasets together, name this df_2
+6. drop redundant columns
+7. use info functino to see data types
+8. change "Year" column to be the same data type in both datasets
+9. use concat function to merge pnc/tbr datasets with lbw, name this df_all
+10. drop unnecessary columns
+11. rearrange columns so variable columns are at the end
+12. rename columns to desired format
+13. create new df without the "State" values, name this df_all_races
+14. create line graph for all counties tbr
+15. create line graph for all counties pnc
+16. create line graph for all counties lbw
+17. repeat for 5 largest counties, all three variables
+18. repeat for 5 smallest counties, all three variables
