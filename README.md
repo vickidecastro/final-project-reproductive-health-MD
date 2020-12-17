@@ -23,6 +23,26 @@
  1. Data cleaning
  2. Data aggregation
  3. Data visualizations all counties
+![teen_br_all](https://user-images.githubusercontent.com/70858878/102508032-ee091280-4052-11eb-9689-899a117fd2eb.png)
+
+![lbw_all](https://user-images.githubusercontent.com/70858878/102508073-fa8d6b00-4052-11eb-8046-c67f550e873c.png)
+
+![early_pnc_all](https://user-images.githubusercontent.com/70858878/102508105-06792d00-4053-11eb-8dcd-52a439a051c7.png)
+
  4. Data visualization 5 largest counties
+![teen_BR_top5](https://user-images.githubusercontent.com/70858878/102508143-1264ef00-4053-11eb-94e1-da45fbf45656.png)
+
+![pnc_top5](https://user-images.githubusercontent.com/70858878/102508194-214ba180-4053-11eb-9953-0ed0ee1aa70e.png)
+
+![lbw_top5](https://user-images.githubusercontent.com/70858878/102508242-2e689080-4053-11eb-8fe6-c7eaed73c463.png)
+
+
+ 
  5. Data visualization 5 smallest counties
+![teen_BR_bot5](https://user-images.githubusercontent.com/70858878/102508330-417b6080-4053-11eb-876c-4795a8e2788e.png)
+
+![pnc_bot5](https://user-images.githubusercontent.com/70858878/102508355-493b0500-4053-11eb-9ac9-86fb1a071434.png)
+
+![lbw_bot5](https://user-images.githubusercontent.com/70858878/102508388-535d0380-4053-11eb-8a2f-0c368443a871.png)
+
 
