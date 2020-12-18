@@ -3,7 +3,7 @@ excel directions
 
 python directions
 1. import data for data analysis (teen birth rate, low birth weight, and prenatal care data)
-2. teen birht rate=TBR; low birth weight=lbw; prenatal care=pnc
+2. teen birth rate=TBR; low birth weight=lbw; prenatal care=pnc
 3. rename column values for each data set to reflect variable
 4. use len() function to see how many rows of data there are in each dataset 
 5. use pd.merge function to merge TBR and PNC datasets together, name this df_2
