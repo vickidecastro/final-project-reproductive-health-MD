@@ -8,7 +8,7 @@ python directions
 4. use len() function to see how many rows of data there are in each dataset 
 5. use pd.merge function to merge TBR and PNC datasets together, name this df_2
 6. drop redundant columns
-7. use info functino to see data types
+7. use info function to see data types
 8. change "Year" column to be the same data type in both datasets
 9. use concat function to merge pnc/tbr datasets with lbw, name this df_all
 10. drop unnecessary columns
